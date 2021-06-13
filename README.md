@@ -1,4 +1,3 @@
 # hello-world
-Just another repository
 
-Making changes to test this out.
+print ("hello world")
